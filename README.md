@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kd19210048
 - 👀 I’m interested in ...
-- 🌱 I’m learned **Python**, **HTML/CSS**, and **JavaScript**, **PHP**.
+- 🌱 I’m learned **Python**, **HTML/CSS**, and **JavaScript**, **PHP**. 
 - 🎯 I'm aiming to work at a company where I can contribute as a developer, solving real-world problems.
 - 💡 I enjoy working on full-stack web development and automation using Python. etc
 - 🔭 I’m currently working on several personal projects to improve my skills and learn new concepts.
